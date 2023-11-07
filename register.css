@@ -1,0 +1,167 @@
+#content section, .footer-sidebar {
+    padding: 100px 0;
+}
+.gray, .blog .site-content, .single .site-content, .archive .site-content, .woocommerce-cart .site-content, .woocommerce-checkout .site-content {
+    
+    font-size: 20px;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+user agent stylesheet
+section {
+    display: block;
+}
+body, .page .cbp-l-project-desc-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #686868;
+}
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.pad{
+    padding: 100px;
+}
+h2 {
+    font-size: 50px;
+    color: #e8872f;
+    margin: 0 auto 10px;
+    line-height: 0.9;
+}
+.tc {
+    text-align: center;
+}
+body .gform_wrapper ul li.gfield {
+    margin-top: 16px;
+    padding-top: 0;
+}
+.gform_wrapper ul li.gfield {
+    clear: both;
+}
+.gform_wrapper form li, .gform_wrapper li {
+    margin-left: 0!important;
+    list-style-type: none!important;
+    list-style-image: none!important;
+    list-style: none!important;
+    overflow: visible;
+}
+.gform_wrapper *, .gform_wrapper :after, .gform_wrapper :before {
+    box-sizing: border-box!important;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.gform_wrapper ul.gform_fields {
+    margin: 0!important;
+    list-style-type: none;
+    display: block;
+}
+.gform_wrapper ul, html>body .entry ul {
+    text-indent: 0;
+}
+ul {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.gform_wrapper form {
+    text-align: left;
+    max-width: 70%;
+    margin: 0 auto;
+}
+.tc {
+    text-align: center;
+}
+body, .page .cbp-l-project-desc-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #686868;
+}
+.gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
+    font-size: inherit;
+    font-family: inherit;
+    padding: 5px 4px;
+    letter-spacing: normal;
+}
+@media only screen and (max-width: 641px){}
+.gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=image]):not([type=file]) {
+    line-height: 2;
+    min-height: 2rem;
+}
+.gform_wrapper input.large, .gform_wrapper input.medium, .gform_wrapper input.small, .gform_wrapper select.large, .gform_wrapper select.medium, .gform_wrapper select.small {
+    width: 100%;
+}
+.gform_wrapper input[type=email], .gform_wrapper input[type=number], .gform_wrapper input[type=password], .gform_wrapper input[type=tel], .gform_wrapper input[type=text], .gform_wrapper input[type=url], .gform_wrapper textarea {
+    padding: 6px !important;
+}
+.white input, .page .white textarea {
+    background: #eee;
+    padding: 6px;
+    width: 100%;
+    margin: 0 auto 10px;
+}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea {
+    color: #666;
+    border: 0;
+    border-radius: 0;
+}
+
+.gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield div.ginput_complex span.ginput_left select, .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield div.ginput_complex span.ginput_right select, .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
+    margin-left: 1px;
+}
+.gform_wrapper.gf_browser_chrome select {
+    padding: 2px 0 2px 3px;
+}
+.gform_wrapper input.large, .gform_wrapper input.medium, .gform_wrapper input.small, .gform_wrapper select.large, .gform_wrapper select.medium, .gform_wrapper select.small {
+    width: 100%;
+}
+.gform_wrapper select {
+    font-size: inherit;
+    font-family: inherit;
+    letter-spacing: normal;
+}
+.gform_wrapper select {
+    line-height: 1.5;
+}
+.gform_wrapper *, .gform_wrapper :after, .gform_wrapper :before {
+    box-sizing: border-box!important;
+}
+select {
+    border: 1px solid #ccc;
+}
+button, select {
+    text-transform: none;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
